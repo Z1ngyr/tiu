@@ -1,0 +1,10 @@
+ADD Иван Иванов ivan.ivanov@example.com +79999900000
+ADD Иван Петров ivan.petrov@example.com 78888811111
+ADD Петя Иванов petja.ivanov@example.com 89999912345
+ADD Петя Петров petja.petrov@example.com +71234500000
+ADD 1234 1234 1234 1234
+REMOVE Петя Иванов
+REMOVE Александр Дроздов
+GET Петя Петров
+LIST
+COUNT

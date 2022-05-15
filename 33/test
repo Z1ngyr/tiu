@@ -1,0 +1,6 @@
+ADD First
+ADD Second
+ADD 1 Third
+EDIT 3 Fourth
+DELETE 3
+LIST
